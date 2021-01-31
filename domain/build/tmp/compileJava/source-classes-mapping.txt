@@ -1,0 +1,12 @@
+pl/edu/wit/library/model/Book.java
+ pl.edu.wit.library.model.Book
+ pl.edu.wit.library.model.Book$BookBuilder
+pl/edu/wit/library/model/patameters/BookParams.java
+ pl.edu.wit.library.model.patameters.BookParams
+ pl.edu.wit.library.model.patameters.BookParams$BookParamsBuilder
+pl/edu/wit/library/Library.java
+ pl.edu.wit.library.Library
+pl/edu/wit/library/impl/bookInput.java
+ pl.edu.wit.library.impl.bookInput
+pl/edu/wit/library/LibraryService.java
+ pl.edu.wit.library.LibraryService

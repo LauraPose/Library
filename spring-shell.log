@@ -1,0 +1,51 @@
+1612092865416:help
+1612092869449:exit
+1612093265292:test
+1612093267989:help
+1612093273306:exit
+1612093415418:test
+1612093418442:help
+1612096709770:addToLibrary -a ferfe -I ffcerf -b egrteg -r 233
+1612096723891:help
+1612096743135:add-to-library -a ferfe -I ffcerf -b egrteg -r 233
+1612096923600:help
+1612096930654:add-to-library
+1612096945797:add-to-library -a dhue
+1612096959935:add-to-library -a dhue -I ewuhf
+1612096972060:add-to-library -a dhue -I ewuhf -b koek
+1612096983168:add-to-library -a dhue -I ewuhf -r 822
+1612096991271:add-to-library -a dhue -I ewuhf -b koek -r822
+1612096998327:add-to-library -a dhue -I ewuhf -b koek -r 822
+1612097079267:add-to-library -a dhue -I ewuhf -b koek
+1612097085323:add-to-library -a dhue -I ewuhf -b koek -r383
+1612097171189:add-to-library -a dhue -I ewuhf -b koek -r 111
+1612097941536:add-to-library -a sijis - I jiewj -b efwef -r1
+1612097979986:add-to-library -a sijis -I jiewj -b efwef -r 1
+1612098019442:add-to-library -asijis -Ijiewj -befwef -r1
+1612098044777:add-to-library -r 22 -a sijis -I jiewj -b efwef
+1612098107043:add-to-library -a sijis -I jiewj -b efwef -r 1
+1612098394919:help
+1612098450712:add-to-library -a sijis -I jiewj -b efwef -r 1
+1612098665690:add-to-library
+1612098686901:add-to-library -a edeu -I feuwhue -r 33 -bedfe
+1612098841819:stacktrace
+1612098986071:add-to-library -a edeu -I feuwhue -r 33 -bedfe
+1612100121007:add-to-library -a edeu -I feuwhue -r 33 -b edfe
+1612100307842:add-to-library -a ed2eu -I feuwhe2 -r 343 -b edfe2
+1612100899946:help
+1612100909059:add-to-library -a Jan Kowalski -I 4234234 -r 1992 -b TytuĹ‚1
+1612100935358:add-to-library -a Jan_Kowalski -I 4234234 -r 1992 -b TytuĹ‚1
+1612100944460:add-to-library -a Jan_Nowak -I 4288234 -r 1998 -b TytuĹ‚4
+1612100950512:add-to-library -a Jan_Kowal -I 4222234 -r 1991 -b TytuĹ‚3
+1612100956590:add-to-library -a Jan_DÄ…browski -I 4277234 -r 1972 -b TytuĹ‚2
+1612100962609:help
+1612100971702:list-library
+1612101034349:remove-from-library -a Jan_Kowalski -I 4234234 -r 1992 -b TytuĹ‚1
+1612101045445:remove-from-library -a Jan_Nowak -I 4288234 -r 1998 -b TytuĹ‚4
+1612101066641:list-library
+1612101219304:add-to-library -a Jan_Kowalski -I 4234234 -r 1992 -b TytuĹ‚1
+1612101223339:add-to-library -a Jan_Nowak -I 4288234 -r 1998 -b TytuĹ‚4
+1612101229423:add-to-library -a Jan_Kowal -I 4222234 -r 1991 -b TytuĹ‚3
+1612101233469:add-to-library -a Jan_DÄ…browski -I 4277234 -r 1972 -b TytuĹ‚2
+1612101240529:remove-from-library -a Jan_Kowalski -I 4234234 -r 1992 -b TytuĹ‚1
+1612101247592:remove-from-library -a Jan_Nowak -I 4288234 -r 1998 -b TytuĹ‚4

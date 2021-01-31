@@ -1,0 +1,22 @@
+//plugins {
+//    id 'java'
+//}
+
+group 'pl.edu.wit.library'
+version '1.0-SNAPSHOT'
+
+//repositories {
+//    mavenCentral()
+//}
+
+dependencies {
+
+    implementation 'org.springframework.shell:spring-shell-starter:2.0.0.RELEASE'
+    implementation project(':domain')
+//    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+//    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+}
+
+//test {
+//    useJUnitPlatform()
+//}

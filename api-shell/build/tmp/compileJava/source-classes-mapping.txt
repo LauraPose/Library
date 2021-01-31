@@ -1,0 +1,6 @@
+pl/edu/wit/library/ShellConfiguration.java
+ pl.edu.wit.library.ShellConfiguration
+pl/edu/wit/library/Application.java
+ pl.edu.wit.library.Application
+pl/edu/wit/library/LibraryCommand.java
+ pl.edu.wit.library.LibraryCommand
